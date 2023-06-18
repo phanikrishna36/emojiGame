@@ -1,0 +1,18 @@
+/* Write your code here. */
+.NavAlign {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 70vw;
+}
+
+.contHead {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  color: white;
+  background-color: #ffffff33;
+}

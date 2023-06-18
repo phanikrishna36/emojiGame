@@ -1,0 +1,10 @@
+/* Write your code here. */
+.winLoose {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff33;
+  background-size: cover;
+  width: 50vw;
+}
